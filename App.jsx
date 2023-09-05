@@ -248,6 +248,7 @@ const styles = StyleSheet.create({
     width: 14,
     height: 14,
     tintColor: '#FFF',
+    //
   },
 });
 export default App;
