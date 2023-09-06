@@ -145,8 +145,9 @@ const styles = StyleSheet.create({
     paddingTop: Platform.OS == 'android' ? 30 : 0,
     paddingHorizontal: 20,
     paddingBottom: 10,
-    borderBottomWidth: 0.5,
+    borderBottomWidth: 1,
     justifyContent: 'space-between',
+    borderColor: 'gray',
   },
   headerview: {
     flexDirection: 'row',
