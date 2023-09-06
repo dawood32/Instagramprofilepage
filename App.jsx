@@ -12,31 +12,31 @@ import React from 'react';
 const App = () => {
   const data = [
     {
-      image: require('./assets/instagram.png'),
+      image: require('./assets/instagram.jpeg'),
     },
     {
-      image: require('./assets/instagram.png'),
+      image: require('./assets/instagram.jpeg'),
     },
     {
-      image: require('./assets/instagram.png'),
+      image: require('./assets/instagram.jpeg'),
     },
     {
-      image: require('./assets/instagram.png'),
+      image: require('./assets/instagram.jpeg'),
     },
     {
-      image: require('./assets/instagram.png'),
+      image: require('./assets/instagram.jpeg'),
     },
     {
-      image: require('./assets/instagram.png'),
+      image: require('./assets/instagram.jpeg'),
     },
     {
-      image: require('./assets/instagram.png'),
+      image: require('./assets/instagram.jpeg'),
     },
     {
-      image: require('./assets/instagram.png'),
+      image: require('./assets/instagram.jpeg'),
     },
     {
-      image: require('./assets/instagram.png'),
+      image: require('./assets/instagram.jpeg'),
     },
   ];
   return (
@@ -57,7 +57,7 @@ const App = () => {
           <View style={styles.imgcircle}>
             <Image
               borderRadius={100}
-              source={require('./assets/profile.png')}
+              source={require('./assets/profile.jpeg')}
               style={styles.profileimg}
             />
           </View>
